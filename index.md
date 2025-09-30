@@ -4,7 +4,7 @@ title: "Record-Breaking Record Breaking: How often should we expect to see recor
 
 ## Tutorial Objectives and Summary
 
-In this tutorial, we will go over how to use simulation to corroborate statistical conjectures/hypotheses. We will learn how to use loops and random number generation in python in order to produce usable example data from which we can draw conclusions.
+In this tutorial, we will go over how to use simulation to corroborate statistical conjectures/hypotheses. We will learn how to use loops and random number generation in python in order to produce usable example data from which we can draw conclusions. We will also be making use of the NumPy package to do basic math on large arrays.
 
 ## Topic of study
 
