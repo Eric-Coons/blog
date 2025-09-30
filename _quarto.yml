@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Your Name - Data Science Portfolio"
-  description: "A showcase of my data science projects and learning journey"
+  title: "Simulation Tutorial Blog"
+  description: "A simple walkthrough of simulation in the context of statistical analysis"
   
   navbar:
     background: primary
@@ -30,13 +30,6 @@ website:
       - icon: linkedin
         href: https://linkedin.com/in/your-profile
 
-  sidebar:
-    - title: "Projects"
-      contents:
-        - projects/index.md
-        - projects/eda.qmd
-        - projects/data-acquisition.qmd
-        - projects/final-project.qmd
 
 format:
   html:
